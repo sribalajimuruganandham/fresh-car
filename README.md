@@ -2,7 +2,7 @@
 
 **Fresh Car** is a mobile application designed to simplify and speed up car service bookings. Users can scan QR codes to quickly access service options, view a variety of service center locations, and manage their booking history—all in one app.
 
-## ✨ Features
+# ✨ Features
 
 - 📷 **QR Code Scanner**: Instantly access service centers by scanning QR codes.
 - 📍 **Location Listings**: Browse a list of available service center locations.
