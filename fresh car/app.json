@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "FreshCar",
+    "slug": "rooter007",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/00658d863cc703ca9931bad0173df538.png",
+    "splash": {
+      "image": "./assets/00658d863cc703ca9931bad0173df538.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#808080"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/00658d863cc703ca9931bad0173df538.png",
+        "backgroundColor": "#8080"
+      },
+      "package": "com.freshcar.FreshCar",
+      "config":{
+        "googleMaps":{
+          "apiKey":"AIzaSyCZF969VBo8LTIoSPXBHhO-JJDK1cnG6dk"
+        }
+
+      },
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
